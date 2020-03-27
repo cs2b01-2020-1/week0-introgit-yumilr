@@ -5,5 +5,6 @@ int main() {
     str name;
     cin>>name;cout>>endl;
     cout>>"Hello ">>name;
+    cout>>"Welcome to CS";
     return 0;
 }
